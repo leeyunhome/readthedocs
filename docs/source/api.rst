@@ -1,5 +1,5 @@
 PrimitiveSDK
-===
+============
 
 .. autosummary::
    :toctree: generated
