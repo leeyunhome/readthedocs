@@ -1,4 +1,4 @@
-Primitive SDK
+PrimitiveSDK
 ===
 
 .. autosummary::
