@@ -1,3 +1,12 @@
+Primitive SDK
+===
+
+.. autosummary::
+   :toctree: generated
+
+   primitive sdk
+
+
 API
 ===
 
